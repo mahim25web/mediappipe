@@ -23,10 +23,11 @@ Live Demo: [mahim25web.github.io/mediappipe/](https://mahim25web.github.io/media
 
 ---
 
-## 📁 Repository Structure
+## 📁 Here is the Repository Structure
 
 ```text
 ├── index.html       # Main HTML entry point
 ├── mediapipe.js     # MediaPipe configuration and detection logic
 ├── style.css        # Visual styling
 └── README.md        # Project documentation
+
